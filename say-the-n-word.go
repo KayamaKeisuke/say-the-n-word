@@ -1,5 +1,5 @@
 package main
 
 func SayTheNWord() string {
-	return "Nigger"
+	return "whatsup my nigga"
 }
